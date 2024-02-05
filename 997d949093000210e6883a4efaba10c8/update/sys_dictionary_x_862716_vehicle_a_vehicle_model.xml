@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>100</max_length>
         <name>x_862716_vehicle_a_vehicle</name>
         <next_element/>
         <primary>false</primary>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Vehicle Application">997d949093000210e6883a4efaba10c8</sys_scope>
         <sys_update_name>sys_dictionary_x_862716_vehicle_a_vehicle_model</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-26 01:19:35</sys_updated_on>
+        <sys_updated_on>2024-01-26 02:29:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
