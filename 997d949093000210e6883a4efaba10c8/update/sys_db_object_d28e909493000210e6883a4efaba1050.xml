@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-26 01:19:34</sys_created_on>
         <sys_id>d28e909493000210e6883a4efaba1050</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Vehicle A Vehicle</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Vehicle</sys_name>
         <sys_package display_value="Vehicle Application" source="x_862716_vehicle_a">997d949093000210e6883a4efaba10c8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vehicle Application">997d949093000210e6883a4efaba10c8</sys_scope>
         <sys_update_name>sys_db_object_d28e909493000210e6883a4efaba1050</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-26 01:19:34</sys_updated_on>
+        <sys_updated_on>2024-01-26 02:27:13</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
