@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d28e909493000210e6883a4efaba1050" label="Vehicle" max_length="40" name="x_862716_vehicle_a_vehicle" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="VIN" max_length="50" name="vin" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" max_length="40" name="year" type="string"/>
+    </element>
+</database>
