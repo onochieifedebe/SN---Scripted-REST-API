@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>Documentation for Vehicles API</description>
+        <direct>false</direct>
+        <endpoint>x_862716_vehicle_a_vehciles_api_documentation.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<p>The Vehicles REST API provides methods for retrieving, creating and deleting vehicle records in ServiceNow.</p>
+	<h2>v1</h2>
+	<ul>
+		<li>GET /vehicle/{vin}: Returns the selected vehicle for a specific VIN.</li>
+		<li>POST ...</li>
+		<li>DELETE ...</li>
+	</ul>
+</j:jelly>]]></html>
+        <name>vehciles_api_documentation</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-11 05:39:36</sys_created_on>
+        <sys_id>fc12371593500210e6883a4efaba10fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vehciles_api_documentation</sys_name>
+        <sys_package display_value="Vehicle Application" source="x_862716_vehicle_a">997d949093000210e6883a4efaba10c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Application">997d949093000210e6883a4efaba10c8</sys_scope>
+        <sys_update_name>sys_ui_page_fc12371593500210e6883a4efaba10fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-11 05:39:36</sys_updated_on>
+    </sys_ui_page>
+</record_update>
